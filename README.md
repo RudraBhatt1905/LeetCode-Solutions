@@ -9,3 +9,7 @@ This repository contains my C++ solutions to LeetCode problems.
 
 ### Easy
 - 0001 Two Sum
+
+### Medium
+
+### Hard
