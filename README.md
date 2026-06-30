@@ -11,6 +11,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - 0001 Two Sum
 - 0217 Contains Duplicate
 - 0242 Valid Anagram 
+- 0136 Single Number
 
 
 
