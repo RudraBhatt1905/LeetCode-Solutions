@@ -13,7 +13,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - 0242 Valid Anagram 
 - 0136 Single Number
 - 0387 First Unique Character in a String
-
+- 0169 Majority Element
 
 
 ### Medium
