@@ -16,7 +16,6 @@ Concepts Used:
 - Sorting
 - Two Pointers
 - Set (Unique Elements)
-- Vector
 */
 class Solution {
 public:

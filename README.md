@@ -14,7 +14,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - 0136 Single Number
 - 0387 First Unique Character in a String
 - 0169 Majority Element
-
+- 0349 Intersection of Two Arrays
 
 ### Medium
 - 0347 Top K Frequent Elements
