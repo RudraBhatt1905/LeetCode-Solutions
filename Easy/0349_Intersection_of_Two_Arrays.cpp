@@ -15,7 +15,7 @@ Space Complexity: O(k)
 Concepts Used:
 - Sorting
 - Two Pointers
-- Set (Unique Elements)
+- Set
 */
 class Solution {
 public:
