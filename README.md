@@ -17,6 +17,6 @@ This repository contains my C++ solutions to LeetCode problems.
 
 
 ### Medium
-- 0349 Intersection of Two Arrays
+- 0347 Top K Frequent Elements
 
 ### Hard
