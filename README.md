@@ -18,6 +18,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - 0125 Valid Palindrome
 - 0088 Merge Sorted Array
 - 0283 Move Zeroes
+- 0026 Remove Duplicates from Sorted Array
 
 
 
