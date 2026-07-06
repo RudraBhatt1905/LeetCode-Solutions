@@ -17,6 +17,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - 0349 Intersection of Two Arrays
 - 0125 Valid Palindrome
 - 0088 Merge Sorted Array
+- 0283 Move Zeroes
 
 
 
