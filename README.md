@@ -25,5 +25,6 @@ This repository contains my C++ solutions to LeetCode problems.
 
 ### Medium
 - 0347 Top K Frequent Elements
+- 0560 Subarray Sum Equals K
 
 ### Hard
