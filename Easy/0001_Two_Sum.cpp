@@ -9,10 +9,6 @@ Approach:
 Use an unordered_map to store previously seen numbers.
 For each number, check if its complement exists.
 */
-#include <vector>
-#include<iostream>
-#include<unordered_map>
-using namespace std;
 class Solution
 {
     public: 
