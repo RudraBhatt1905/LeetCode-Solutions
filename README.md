@@ -31,5 +31,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - 0011 Container With Most Water
 - 0034 Find First and Last Position of Element in Sorted Array
 - 0049 Group Anagrams
+- 0075 Sort Colors
+
 
 ### Hard
