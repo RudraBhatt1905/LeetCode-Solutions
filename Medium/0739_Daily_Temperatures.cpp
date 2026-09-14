@@ -15,7 +15,7 @@ Space Complexity: O(n)
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
-        vector<int> ans;
+        vector<int> ans(temperatures.size(), 0);
         stack<int> s;
         for(int i=0; i< temperatures.size(); i++)
         {
