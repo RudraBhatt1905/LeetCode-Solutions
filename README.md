@@ -1,9 +1,28 @@
-# LeetCode Solutions
+# 🚀 LeetCode Solutions
 
-This repository contains my C++ solutions to LeetCode problems.
+My journey of solving Data Structures & Algorithms problems on LeetCode using C++.
 
-## Language
-- C++
+## 📊 Progress
+
+- ✅ 100+ Problems Solved
+- 🟢 Easy: 65
+- 🟡 Medium: 43
+- 🔴 Hard: 4
+- 🔥 Max Streak: 105 Days
+- 📅 Active Days: 85
+
+## 🧠 Topics I'm Learning
+
+- Arrays
+- Strings
+- Hashing
+- Two Pointers
+- Sliding Window
+- Stack
+- Linked List
+- Binary Search 
+
+
 
 ## Problems Solved
 
