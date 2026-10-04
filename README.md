@@ -8,8 +8,8 @@ My journey of solving Data Structures & Algorithms problems on LeetCode using C+
 - 🟢 Easy: 65
 - 🟡 Medium: 43
 - 🔴 Hard: 4
-- 🔥 Max Streak: 105 Days
-- 📅 Active Days: 85
+- 🔥 Max Streak: 85 Days
+- 📅 Active Days: 105
 
 ## 🧠 Topics I'm Learning
 
