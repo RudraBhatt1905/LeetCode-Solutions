@@ -52,8 +52,8 @@ My journey of solving Data Structures & Algorithms problems on LeetCode using C+
 - 0049 Group Anagrams
 - 0075 Sort Colors
 - 0198 House Robber
-- 0015 3Sum
 - 0739 Daily Temperatures
+- 0015 3Sum
 
 
 
